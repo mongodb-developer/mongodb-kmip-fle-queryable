@@ -1,0 +1,12 @@
+.pyc
+.venv*
+__pycache__
+csfle_vault_kmip/kmip/pykmip.log
+csfle_vault_kmip/jsonSchema.json
+csfle_vault_kmip/mongocryptd.pid
+.DS_Store
+vault/data/logical/**
+csfle_vault_kmip/configuration_local.py
+kmip-with-hashicorp-key-vault/configuration_local.py
+kmip-with-hashicorp-key-vault/configuration_local_fle.py
+kmip-with-hashicorp-key-vault/configuration_local_queryable.py
