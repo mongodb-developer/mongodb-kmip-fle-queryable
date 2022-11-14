@@ -137,8 +137,8 @@ If you want to rerun setup, delete vault/data folder. only the data folder. Run 
 
 # Additional Resources
 
-## Blog article 
-TBD: Will be updated once published on published≤/br>
+## Blog article - How to Set Up HashiCorp Vault KMIP Secrets Engine with MongoDB CSFLE or Queryable Encryption</br>
+https://www.mongodb.com/developer/products/atlas/hashicorp-vault-kmip-secrets-engine-mongodb/
 
 ## Client-Side Field Level Encryption The Next Generation of Privacy & Security MDBW22 Video </br>
 https://www.youtube.com/watch?v=KBMfaEzxNFk
