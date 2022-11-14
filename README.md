@@ -134,7 +134,12 @@ If you want to rerun setup, delete vault/data folder. only the data folder. Run 
 ./cleanup.sh
 ```
 
+
 # Additional Resources
+
+## Blog article 
+TBD: Will be updated once published on published≤/br>
+
 ## Client-Side Field Level Encryption The Next Generation of Privacy & Security MDBW22 Video </br>
 https://www.youtube.com/watch?v=KBMfaEzxNFk
 
