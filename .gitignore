@@ -10,3 +10,6 @@ csfle_vault_kmip/configuration_local.py
 kmip-with-hashicorp-key-vault/configuration_local.py
 kmip-with-hashicorp-key-vault/configuration_local_fle.py
 kmip-with-hashicorp-key-vault/configuration_local_queryable.py
+local/configuration_fle.py
+local/configuration_queryable.py
+local/license.txt

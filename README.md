@@ -156,7 +156,8 @@ Product page & FAQ: https://mongodb.com/products/queryable-encryption </br>
 
 ## To build and push docker file
 ```
-docker buildx create --name builder —use
-docker buildx build --push --platform linux/amd64,linux/arm64 --tag piepet/mongodb-kmip-vault:latest .
+docker buildx create --use
+docker buildx build --push --platform linux/amd64,linux/arm64 --tag piepet/mongodb-kmip-vault4:latest .
+
 ```
 
